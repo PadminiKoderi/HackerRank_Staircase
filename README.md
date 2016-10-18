@@ -1,5 +1,4 @@
 # HackerRank_Staircase
-# https://www.hackerrank.com/challenges/staircase
 using System;
 using System.Collections.Generic;
 using System.IO;
